@@ -1,4 +1,12 @@
-
+/*
+Theme Name: Salient Child Theme
+Description: This is a custom child theme for Salient
+Theme URI:   https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266
+Author: ThemeNectar
+Author URI:  https://themeforest.net/user/themenectar
+Template: salient
+Version: 1.0
+*/
 body #header-outer.transparent #top nav > ul.sf-menu {
     align-items: flex-start;
     padding-top: 30px;
